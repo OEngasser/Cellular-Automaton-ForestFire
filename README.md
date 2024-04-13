@@ -1,4 +1,4 @@
-In this project, we will develop a <strong>cellular automaton</strong>, to model the <strong>propagation of a forest fire</strong>. A cellular automaton is a grid of cells (with $n$ rows and $m$ columns), each in a particular state at each time $t$. The state of a cell at time $t + 1$ depends on :<br/>
+In this project, we develop a <strong>cellular automaton</strong>, to model the <strong>propagation of a forest fire</strong>. A cellular automaton is a grid of cells (with $n$ rows and $m$ columns), each in a particular state at each time $t$. The state of a cell at time $t + 1$ depends on :<br/>
 - The state of neighboring cells on the grid.<br/>
 - Its state at the previous time $(t)$ based on transition rules.<br/>
 
